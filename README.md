@@ -1,5 +1,7 @@
 # E-Commerce Project
-This is a MERN full-stack project I made for better understandig of the backend and how both front and back can join and deploying it successfully. On this web you can login and add products to the cart. 
+This is a MERN full-stack project I made for better understandig of the backend and how both front and back can join and deploying it successfully. 
+On this web you can login and add products to the cart. 
+Since this was the purpose there are some buttons with no function.
 <a href="https://front-ecommerce-puce.vercel.app/">Preview</a>
 <a href="https://github.com/HananGK/front_ecommerce">Front Code</a>
 
